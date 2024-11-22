@@ -144,7 +144,10 @@ display: flex;
 height: 400px;
 width: 400px;
 margin: auto 0;
-border-radius: 50%;
+
+}
+.Profile-pic{
+    border-radius: 50%;
 }
 .section-text{
     align-self: center;
