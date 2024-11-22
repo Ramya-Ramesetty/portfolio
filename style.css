@@ -240,6 +240,8 @@ border: rgb(53,53,53)0.1rem solid;
 }
 .about-pic{
     border-radius: 2rem;
+    width: 300px;
+    height: 300px;
    
 }
 .arrow{
