@@ -122,7 +122,7 @@ max-height: 300px;
 /* Sections */
 section{
     padding-top: 4vh;
-    height: 96vh;
+    height: 80vh;
     margin:0 10rem;
     box-sizing: border-box;
     min-height: fit-content;
