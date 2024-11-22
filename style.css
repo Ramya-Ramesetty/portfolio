@@ -146,8 +146,8 @@ width: 400px;
 margin: auto 0;
 
 }
-.Profile-pic{
-    border-radius: 50%;
+img .Profile-pic{
+    border-radius: 30%;
 }
 .section-text{
     align-self: center;
