@@ -39,7 +39,7 @@
 <section id=" profile">
     <div class="section-container">
     <div class="section-pic-container">
-<img src=" ./assets/Profile-pic" alt="ramya ramesetty profile picture" class="Profile-pic"/>
+<img src=" ./assets/profile-pic.png" alt="ramya ramesetty profile picture" />
 </div>
     <div class ="section-text">
         <p class="section-text-p1">Hello I'm</p>
@@ -62,7 +62,7 @@
     <h1 class="title">About Me</h1>
     <div class="section-container">
         <div class=" section-pic-container">
-            <img src="./assets/About-pic.jpeg" alt="profile picture" class="about-pic" />
+            <img src="./assets/about-pic.png" alt="profile picture" class="about-pic" />
         </div>
         <div class="about-details-container">
             <div class="about-containers">
@@ -75,15 +75,13 @@
                     <img src="./assets/education.png" alt="education Icon" class="icon" />
                     <h3>Education</h3>
                     <p>B.com Bachelors Degree </p>
-                    <p>Computer Science</p>
                 </div>
             </div>
             <div class="text-container">
-                <p>Transitioning from a frontend developer to a data analyst, I bring a unique blend of technical and analytical
-                     expertise. Proficient in SQL, Power BI, Excel, and Python, I specialize in data analysis, modeling, and 
-                     visualization. I excel in SQL query optimization, advanced DAX functions, and statistical analysis using Python 
-                     libraries like NumPy and Pandas. With a proven ability to develop interactive dashboards and automate reporting,
-                      I am passionate about turning complex data into actionable insights for strategic decisions.</p>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum maxime odit quod,
+                     illum dolor porro eveniet alias dolore molestias debitis iure eaque consequatur nesciunt nisi expedita mollitia hic at 
+                    recusandae nobis culpa impedit ratione, laudantium delectus? Libero, quibusdam? 
+                    Sit vitae cumque dicta repellat velit alias non numquam laboriosam voluptatibus magni.</p>
             </div>
         </div>
     </div>
@@ -97,7 +95,22 @@
             <div class="details-container">
                 <h2 class="experience-sub-title">Data Analytics</h2>
                 <div class="article-container">
-                 
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Experience icon" class ="icon" />
+                        <div>
+                         <h2>Power BI</h2>
+                         <p>Experienced</p>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Experience icon" class ="icon" />
+                        <div>
+                         <h2>SQL/MYSQL</h2>
+                         <p>Experienced</p>
+                        </div>
+                    </article>
+
                     <article>
                         <img src="./assets/checkmark.png" alt="Experience icon" class ="icon" />
                         <div>
@@ -119,22 +132,6 @@
                         <div>
                          <h2>Statistics</h2>
                          <p>Basic</p>
-                        </div>
-                    </article>
-
-                    <article>
-                        <img src="./assets/checkmark.png" alt="Experience icon" class ="icon" />
-                        <div>
-                         <h2>SQL/MYSQL</h2>
-                         <p>Experienced</p>
-                        </div>
-                    </article>
-                   
-                    <article>
-                        <img src="./assets/checkmark.png" alt="Experience icon" class ="icon" />
-                        <div>
-                         <h2>Power BI</h2>
-                         <p>Experienced</p>
                         </div>
                     </article>
 
@@ -212,32 +209,32 @@
  <div class="about-containers">
     <div class="details-container color-container">
         <div class="article-container">
-            <img src="./assets/project-1.jpg" alt="project-1" class="project-img" />
+            <img src="./assets/project-1.png" alt="project-1" class="project-img" />
         </div>
-        <h2 class="experience-sub-title project-title">EV-Motors-Project</h2>
+        <h2 class="experience-sub-title project-title">Project One</h2>
         <div class="btn-container">
-            <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/Ramya-Ramesetty/EV-Motors-Project'">Github</button>
-            <button class="btn btn-color-2 project-btn" onclick="location.href='https://app.powerbi.com/view?r=eyJrIjoiZjRhMTQ0YWMtMmQxNi00MWU1LTg0ZjUtYTU4ODFhZjEzZjA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9'">Live Demo</button>
+            <button class="btn btn-color-2 project-btn" onclick="location.href='https:/github.com/Ramya-Ramesetty'">Github</button>
+            <button class="btn btn-color-2 project-btn" onclick="location.href='https:/github.com/Ramya-Ramesetty'">Live Demo</button>
         </div>
     </div>
     <div class="details-container color-container">
         <div class="article-container">
             <img src="./assets/project-2.png" alt="project-2" class="project-img" />
         </div>
-        <h2 class="experience-sub-title project-title">Business Insights Analysis</h2>
+        <h2 class="experience-sub-title project-title">Project Two</h2>
         <div class="btn-container">
-            <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/Ramya-Ramesetty/Buisness_Insights_360'">Github</button>
-            <button class="btn btn-color-2 project-btn" onclick="location.href='https://app.powerbi.com/view?r=eyJrIjoiOGE5YmI3YzItYjA4Mi00ZDYwLWEyYmEtMGVlZWI5NTA2MzU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9'">Live Demo</button>
+            <button class="btn btn-color-2 project-btn" onclick="location.href='https:/github.com/Ramya-Ramesetty'">Github</button>
+            <button class="btn btn-color-2 project-btn" onclick="location.href='https:/github.com/Ramya-Ramesetty'">Live Demo</button>
         </div>
     </div>
     <div class="details-container color-container">
         <div class="article-container">
             <img src="./assets/project-3.png" alt="project-1" class="project-img" />
         </div>
-        <h2 class="experience-sub-title project-title">Pizza Sales Analysis</h2>
+        <h2 class="experience-sub-title project-title">Project Three</h2>
         <div class="btn-container">
-            <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/Ramya-Ramesetty/Pizza-Sales-Analysis-Dashboard'">Github</button>
-            <button class="btn btn-color-2 project-btn" onclick="location.href='https://app.powerbi.com/view?r=eyJrIjoiZTg1OWM2Y2EtYjcyZC00NDhmLTg1MTktOWViOTQxZGFlNzAyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9'">Live Demo</button>
+            <button class="btn btn-color-2 project-btn" onclick="location.href='https:/github.com/Ramya-Ramesetty'">Github</button>
+            <button class="btn btn-color-2 project-btn" onclick="location.href='https:/github.com/Ramya-Ramesetty'">Live Demo</button>
         </div>
    
     </div>
@@ -251,7 +248,7 @@
 <div class="contact-info-upper-container">
     <div class="contact-info-container">
         <img src="./assets/email.png" alt="Email icon" class="icon contact-icon email-icon" />
-        <p><a href="mailto:Examplemail@gmail.com">Email</a></p>
+        <p><a href="ramyaramesetty@gmail.com">Email</a></p>
     </div>
 
     <div class="contact-info-container">
