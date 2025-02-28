@@ -122,7 +122,7 @@ max-height: 300px;
 /* Sections */
 section{
     padding-top: 4vh;
-    height: 60vh;
+    height: 80vh;
     margin:0 10rem;
     box-sizing: border-box;
     min-height: fit-content;
@@ -147,7 +147,7 @@ margin: auto 0;
 
 }
 img .Profile-pic{
-    border-radius: 180%;
+    border-radius: 80%;
 }
 .section-text{
     align-self: center;
@@ -257,7 +257,6 @@ border: rgb(53,53,53)0.1rem solid;
     border:rgb(53,53,53) 0.1rem solid;
     border-color:rgb(163,163,163);
     text-align: center;
-  
 }
 .section-container{
     gap:4rem;
