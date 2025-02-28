@@ -147,7 +147,7 @@ margin: auto 0;
 
 }
 img .Profile-pic{
-    border-radius: 80%;
+    border-radius: 180%;
 }
 .section-text{
     align-self: center;
@@ -257,6 +257,8 @@ border: rgb(53,53,53)0.1rem solid;
     border:rgb(53,53,53) 0.1rem solid;
     border-color:rgb(163,163,163);
     text-align: center;
+    height: 500px;
+    width: 500px;
 }
 .section-container{
     gap:4rem;
