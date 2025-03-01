@@ -130,7 +130,7 @@ section{
 
 .section-container{
     display: flex;
-   
+   justify-content: center;
 }
 /* Profile Section */
 #profile{
