@@ -144,6 +144,7 @@ display: flex;
 height: 400px;
 width: 400px;
 margin: auto 0;
+justify-content: center;
 
 }
 img .Profile-pic{
@@ -257,8 +258,7 @@ border: rgb(53,53,53)0.1rem solid;
     border:rgb(53,53,53) 0.1rem solid;
     border-color:rgb(163,163,163);
     text-align: center;
-    height:0px;
-    width:0px;
+    
 }
 .section-container{
     gap:4rem;
