@@ -318,6 +318,12 @@ position: relative;
     width: 90%;
     height: 90%;
 }
+.project-img-1{
+    border-radius: 2rem;
+    width: 90%;
+    height: 100%;
+}
+
 .project-title{
     margin:1rem;
     color: black;
