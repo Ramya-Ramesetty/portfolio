@@ -122,8 +122,8 @@ max-height: 300px;
 /* Sections */
 section{
     padding-top: 4vh;
-    height: 80vh;
-    margin:0 10rem;
+    height: 60vh;
+    margin:0 16rem;
     box-sizing: border-box;
     min-height: fit-content;
 }
@@ -137,7 +137,7 @@ section{
     display: flex;
     justify-content: center;
     gap: 5rem;
-    height: 80vh;
+    height: 50vh;
     
 }
 .section-pic-container{
