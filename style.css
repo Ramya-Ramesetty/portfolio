@@ -263,7 +263,7 @@ border: rgb(53,53,53)0.1rem solid;
 }
 .section-container{
     gap:4rem;
-    height: 80%;
+    /* height: 80%; */
     justify-content: center;
 }
 .section-pic-container{
