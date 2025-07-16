@@ -9,6 +9,9 @@ flex-wrap: wrap;
 .text-container{
     text-align: justify;
 }
+.para{
+width: 50px;
+}
 }
 /* ----------------------------------------------- */
 
