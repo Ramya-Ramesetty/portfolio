@@ -6,7 +6,12 @@
 .about-containers{
 flex-wrap: wrap;
 }
+.text-container{
+    text-align: justify;
 }
+}
+/* ----------------------------------------------- */
+
 @media screen and (max-width: 1200px){
     #desktop-nav{
         display: none;
@@ -44,7 +49,7 @@ section{
     margin-top:0;
 }
 }
-    
+/* ------------------------------------------------------- */
 @media screen and (max-width: 600px){
 #contact,footer {
     height:40vh;
