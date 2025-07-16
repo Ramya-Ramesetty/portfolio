@@ -228,6 +228,7 @@ border: rgb(53,53,53)0.1rem solid;
     gap:1rem;
 }
 
+
 /* About section */
  #about{
     position: relative;
@@ -374,4 +375,5 @@ margin:0 1rem;
 }
 footer p{
     text-align: center;
+};
 }
