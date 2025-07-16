@@ -13,6 +13,7 @@ flex-wrap: wrap;
     }
 #hamburger-nav{
     display: flex;
+
 }
 .experience,.experience-details-container{
 margin-top:2rem;
@@ -31,10 +32,11 @@ section{
 
 }
 .section-pic-container{
-    width: 275px;
-    height:275px;
+    width: 400px;
+    height:400px;
     margin:0 auto 2rem;
 }
+
 .about-containers{
     margin-top:0;
 }
