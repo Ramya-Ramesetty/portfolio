@@ -148,16 +148,15 @@ margin: auto 0;
 
 
 }
-img .Profile-pic{
-    border-radius: 50%;
-    img.Profile-pic {
+
+img.Profile-pic {
     width: 200px;        /* You can adjust size */
     height: 200px;       /* Keep height and width equal for circle */
     object-fit: cover;   /* Ensures the image covers the circle */
     border-radius: 50%;
     border: 2px solid #000; /* Optional: adds a border */
 }
-}
+
 .section-text{
     align-self: center;
     text-align: center;
