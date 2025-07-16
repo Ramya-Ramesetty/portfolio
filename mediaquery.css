@@ -36,6 +36,9 @@ section{
     height:400px;
     margin:0 auto 2rem;
 }
+.text-container{
+    text-align: justify;
+}
 
 .about-containers{
     margin-top:0;
