@@ -148,11 +148,11 @@ margin: auto 0;
 }
 
 img.Profile-pic {
-    width: 400px;        /* You can adjust size */
-    height: 400px;       /* Keep height and width equal for circle */
+    width: 600px;        /* You can adjust size */
+    height: 600px;       /* Keep height and width equal for circle */
     object-fit: cover;   /* Ensures the image covers the circle */
     border-radius: 50%;
-    border: 2px solid #000; /* Optional: adds a border */
+    border: 1px solid #000; /* Optional: adds a border */
 }
 
 .section-text{
