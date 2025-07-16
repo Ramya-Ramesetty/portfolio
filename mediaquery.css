@@ -9,9 +9,6 @@ flex-wrap: wrap;
 .text-container{
     text-align: justify;
 }
-.para{
-width: 20px;
-}
 }
 /* ----------------------------------------------- */
 
@@ -23,6 +20,10 @@ width: 20px;
     display: flex;
 
 }
+.para{
+width: 20px;
+}
+
 .experience,.experience-details-container{
 margin-top:2rem;
 }
