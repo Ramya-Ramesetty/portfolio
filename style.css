@@ -133,46 +133,100 @@ section{
    justify-content: center;
 }
 /* Profile Section */
-#profile {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 3rem;
-  height: 50vh;
+#profile{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    height: 50vh;
+    
 }
+.section-pic-container{
+display: flex;
+height: 400px;
+width: 400px;
+margin: auto 0;
 
-.section-container {
-  display: flex;
-  align-items: center;
-  gap: 3rem;
-}
 
-.section-pic-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 img.Profile-pic {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 2px solid #000;
+    width: 200px;        /* You can adjust size */
+    height: 200px;       /* Keep height and width equal for circle */
+    object-fit: cover;   /* Ensures the image covers the circle */
+    border-radius: 50%;
+    border: 2px solid #000; /* Optional: adds a border */
 }
 
-.section-text {
-  text-align: center;
+.section-text{
+    align-self: center;
+    text-align: center;
 }
-
-.btn-container {
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-  margin-top: 1rem;
+.section-text p{
+    font-weight: 600;
 }
+.section-text-p1{
+text-align: center;
+}
+.section-text-p2{
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+ }
+.title{
+    font-size: 3rem;
+    text-align: center;
+}
+#socials-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap:1rem;
+}
+.icon{
+    cursor: pointer;
+    height: 2rem;
+    padding: 5px;
+}
+/* Buttons */
+.btn-conatiner{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  
+}
+.btn{
+    font-weight: 600;
+    transition: all 300 ease;
+    padding: 1rem;
+    width: 8rem;
+    border-radius: 2rem;
+}
+.btn-color-1,
+.btn-color-2{
+border: rgb(53,53,53)0.1rem solid;
+}
+.btn-color-1:hover,
+.btn-color-2:hover{
+    cursor: pointer;
+}
+.btn-color-1,
+.btn-color-2:hover{
+    background: rgb(53,53,53);
+    color: white;
+    }
 
-/* The rest of your button and icon CSS stays the same */
+.btn-color-1:hover{
+        background: rgb(0,0,0);
+        
+}
+.btn-color-2{
+    background: none;
+}
+.btn-color-2:hover{
+    border: rgb(255,255,255)0.1rem solid;
+    }
+.btn-container{
+    gap:1rem;
+}
 
 /* About section */
  #about{
