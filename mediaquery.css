@@ -79,8 +79,8 @@ font-size: 1rem;
 }
 
 .section-pic-container{
-    width: auto;
-    height:46vh;
+    width: 400px;
+    height:400px;
     justify-content: center;
 }
 .section-text-p2{
